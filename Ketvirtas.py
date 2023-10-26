@@ -1,0 +1,6 @@
+print("Labas rytas Lietuva")
+print("Labas rytas Lietuva")
+print("Labas rytas Lietuva")
+print("Labas rytas Lietuva")
+print("Labas rytas Lietuva")
+print("Labas rytas Lietuva")
