@@ -40,4 +40,3 @@ while True:
 
         print("Štai jūsų rezultatas:", rezultatas)
 
-print("new")
