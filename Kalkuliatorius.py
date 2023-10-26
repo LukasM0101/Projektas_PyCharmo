@@ -1,4 +1,4 @@
-Istorija = []
+istorija = []
 while True:
     print("Pasirinkimai")
     print("Įveskite 'sudėti' norint sudėti")
