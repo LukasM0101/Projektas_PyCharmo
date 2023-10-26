@@ -1,2 +1,2 @@
 print("Hello iš Pycharm!!!")
-print("Redagacija")
+print("Redagacija ")
