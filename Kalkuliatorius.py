@@ -39,3 +39,5 @@ while True:
                 rezultatas = "Dalyba iš nulio negalima"
 
         print("Štai jūsų rezultatas:", rezultatas)
+
+print("new")
